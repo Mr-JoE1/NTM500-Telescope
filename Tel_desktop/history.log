@@ -1,0 +1,120 @@
+09-11 08:10 - Cigar - INFO: =====================================
+09-11 08:10 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:10 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:10 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:10 - Cigar - INFO: =====================================
+09-11 08:10 - Cigar - INFO: System Started
+09-11 08:10 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:12 - Cigar - INFO: =====================================
+09-11 08:12 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:12 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:12 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:12 - Cigar - INFO: =====================================
+09-11 08:12 - Cigar - INFO: System Started
+09-11 08:12 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-11 08:12 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:12 - Cigar - INFO: Dome client connected over :10081
+09-11 08:15 - Cigar - INFO: =====================================
+09-11 08:15 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:15 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:15 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:15 - Cigar - INFO: =====================================
+09-11 08:15 - Cigar - INFO: System Started
+09-11 08:15 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-11 08:15 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:15 - Cigar - INFO: Dome client connected over :10081
+09-11 08:16 - Cigar - INFO: =====================================
+09-11 08:16 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:16 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:16 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:16 - Cigar - INFO: =====================================
+09-11 08:16 - Cigar - INFO: System Started
+09-11 08:16 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-11 08:16 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:16 - Cigar - INFO: Dome client connected over :10081
+09-11 08:16 - Cigar - INFO: Dome client connected over :10081
+09-11 08:17 - Cigar - INFO: =====================================
+09-11 08:17 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:17 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:17 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:17 - Cigar - INFO: =====================================
+09-11 08:17 - Cigar - INFO: System Started
+09-11 08:17 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-11 08:17 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:17 - Cigar - INFO: Dome client connected over :10081
+09-11 08:20 - Cigar - INFO: =====================================
+09-11 08:20 - Cigar - INFO: Cigar Telescope Remote Controller
+09-11 08:20 - Cigar - INFO: Developed By: Mohamed Maher
+09-11 08:20 - Cigar - INFO: www.infinitytech.ltd
+09-11 08:20 - Cigar - INFO: =====================================
+09-11 08:20 - Cigar - INFO: System Started
+09-11 08:20 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-11 08:20 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-11 08:20 - Cigar - INFO: Dome client connected over :10081
+09-13 21:33 - Cigar - INFO: =====================================
+09-13 21:33 - Cigar - INFO: Cigar Telescope Remote Controller
+09-13 21:33 - Cigar - INFO: Developed By: Mohamed Maher
+09-13 21:33 - Cigar - INFO: www.infinitytech.ltd
+09-13 21:33 - Cigar - INFO: =====================================
+09-13 21:33 - Cigar - INFO: System Started
+09-13 21:33 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-13 21:33 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-13 21:33 - Cigar - ERROR: Dome Controller does not reply:<class 'OSError'>
+09-13 21:34 - Cigar - INFO: =====================================
+09-13 21:34 - Cigar - INFO: Cigar Telescope Remote Controller
+09-13 21:34 - Cigar - INFO: Developed By: Mohamed Maher
+09-13 21:34 - Cigar - INFO: www.infinitytech.ltd
+09-13 21:34 - Cigar - INFO: =====================================
+09-13 21:34 - Cigar - INFO: System Started
+09-13 21:34 - Cigar - INFO: Dome monitor server created - Port(10080)
+09-13 21:34 - Cigar - INFO: Mount monitor server created - Port(10050)
+09-13 21:37 - Cigar - INFO: Dome client connected over :10081
+09-13 21:37 - Cigar - INFO: Cigar commanded Dome with : b'MC'
+10-14 21:03 - Cigar - INFO: =====================================
+10-14 21:03 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:03 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:03 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:03 - Cigar - INFO: =====================================
+10-14 21:03 - Cigar - INFO: System Started
+10-14 21:03 - Cigar - ERROR: Dome monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:03 - Cigar - ERROR: Mount monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:03 - Cigar - ERROR: Mount Controller does not reply :[WinError 10022] An invalid argument was supplied
+10-14 21:09 - Cigar - INFO: =====================================
+10-14 21:09 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:09 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:09 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:09 - Cigar - INFO: =====================================
+10-14 21:09 - Cigar - INFO: System Started
+10-14 21:09 - Cigar - ERROR: Dome monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:09 - Cigar - ERROR: Mount monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:09 - Cigar - ERROR: Mount Controller does not reply :[WinError 10022] An invalid argument was supplied
+10-14 21:10 - Cigar - INFO: =====================================
+10-14 21:10 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:10 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:10 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:10 - Cigar - INFO: =====================================
+10-14 21:10 - Cigar - INFO: System Started
+10-14 21:10 - Cigar - ERROR: Dome monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:10 - Cigar - ERROR: Mount monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:10 - Cigar - ERROR: Mount Controller does not reply :[WinError 10022] An invalid argument was supplied
+10-14 21:11 - Cigar - INFO: =====================================
+10-14 21:11 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:11 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:11 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:11 - Cigar - INFO: =====================================
+10-14 21:11 - Cigar - INFO: System Started
+10-14 21:11 - Cigar - ERROR: Dome monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:11 - Cigar - ERROR: Mount monitor server Failed :[WinError 10049] The requested address is not valid in its context
+10-14 21:11 - Cigar - ERROR: Mount Controller does not reply :[WinError 10022] An invalid argument was supplied
+10-14 21:14 - Cigar - INFO: =====================================
+10-14 21:14 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:14 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:14 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:14 - Cigar - INFO: =====================================
+10-14 21:14 - Cigar - INFO: System Started
+10-14 21:16 - Cigar - INFO: =====================================
+10-14 21:16 - Cigar - INFO: Cigar Telescope Remote Controller
+10-14 21:16 - Cigar - INFO: Developed By: Mohamed Maher
+10-14 21:16 - Cigar - INFO: www.infinitytech.ltd
+10-14 21:16 - Cigar - INFO: =====================================
+10-14 21:16 - Cigar - INFO: System Started

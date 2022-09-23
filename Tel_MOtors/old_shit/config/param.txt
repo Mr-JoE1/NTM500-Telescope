@@ -1,0 +1,395 @@
+// all
+type=                                   123
+name=                                   ""
+ew_t_abtast=                            0.001
+ew_etel_port=                           2
+ew_dome_port=                           4
+ew_dome_baud=                           57600
+ew_dome_info=                           0
+ew_dome_type=                           -1
+ew_new_param=                           1
+ew_guide_type=                          2
+Magic_ID=                               0x660F
+
+// all.rgl
+rgl.ew_rgl_etel_lin=                    0
+rgl.ew_rgl_etel_qud=                    0
+rgl.ew_rgl_etel_filt=                   0
+rgl.ew_rgl_timeout_blk=                 0.9
+rgl.ew_rgl_max_out=                     1
+rgl.Magic_ID=                           0x204E
+
+
+// all.tci
+tci.tci_der=                            21,21,21,21,21,21,21,21
+tci.tci_foc=                            21,21,21,21,21,21,21,21
+tci.tci_flt=                            21,21,21,21,21,21,21,21
+tci.tci_mount=                          1
+tci.Magic_ID=                           0x6A78
+
+
+// all.dummy
+dummy.type=                             4
+dummy.type_brake=                       0
+dummy.Magic_ID=                         0xA011
+
+
+// all.bus_ms
+bus_ms.type=                            0
+bus_ms.type_brake=                      0
+bus_ms.Magic_ID=                        0xA011
+
+
+// all.main
+main.ew_startup_main=                   0.4567
+main.ew_tousvmax_main=                  1.234
+main.ew_toinitmax_main=                 0
+main.iw_blink_main=                     822
+main.Magic_ID=                          0x815
+
+// all.main.ms
+main.ms.type=                           2
+main.ms.type_brake=                     0
+main.ms.Magic_ID=                       0xA011
+
+
+
+// all.bottel
+bottel.type=                            3
+bottel.type_brake=                      0
+bottel.Magic_ID=                        0xA011
+
+
+// all.clk
+clk.ew_gps_port=                        2
+clk.ew_filter_clk=                      20
+clk.ew_maxdiff_clk=                     0
+clk.ew_filterr_clk=                     0
+clk.ew_century_clk=                     0
+clk.iw_latitude_clk=                    48.31448
+clk.iw_longitude_clk=                   9.015798
+clk.iw_height_clk=                      329.7
+clk.iw_gpsvalid_clk=                    1
+clk.Magic_ID=                           0x21
+
+// all.clk.ms
+clk.ms.type=                            4
+clk.ms.type_brake=                      0
+clk.ms.Magic_ID=                        0xA011
+
+
+// all.clk.rgl
+clk.rgl.ki=                             3
+clk.rgl.kp=                             4.5
+clk.rgl.kd=                             5
+clk.rgl.ilim=                           1.002
+clk.rgl.Magic_ID=                       0x852F
+
+
+
+// all.io
+io.Magic_ID=                            0x0
+
+
+// all.az
+az.ix_ref_position=                     0
+az.safe_position=                       90
+az.ew_position_start=                   90
+az.Magic_ID=                            0xABA1
+
+// all.az.ms
+az.ms.type=                             1
+az.ms.type_brake=                       1
+az.ms.Magic_ID=                         0xA011
+
+
+// all.az.tune
+az.tune.params=                         "/tmp/a0_tune.txt"
+az.tune.Magic_ID=                       0xA011
+
+
+// all.az.phasing
+az.phasing.inc_of_k91=                  1500
+az.phasing.max_retries=                 8
+az.phasing.ref_max_retries=             4
+az.phasing.Magic_ID=                    0xA011
+
+
+// all.az.rgl
+az.rgl.ew_regler_type=                  1
+az.rgl.ew_scale_encoder=                409600
+az.rgl.ew_scalev_encoder=               52428.8
+az.rgl.ew_scalea_encoder=               6710.886
+az.rgl.ew_scale_motor_position=         0
+az.rgl.ew_scale_motor_speed=            0
+az.rgl.ew_sign_axes=                    0
+az.rgl.ew_position_delta=               0.01
+az.rgl.ew_speed_delta=                  0.01
+az.rgl.ew_filter_speed=                 0.1
+az.rgl.ew_position_max=                 180
+az.rgl.ew_position_min=                 0
+az.rgl.ew_position_guide=               0.00014
+az.rgl.ew_guide_plus=                   18
+az.rgl.ew_guide_minus=                  19
+az.rgl.ew_referenze_mode_lr=            0
+az.rgl.ew_referenze_mode_enc=           0
+az.rgl.ew_referenze_position=           -168.45
+az.rgl.ew_referenze_speed=              0
+az.rgl.ew_referenze_speed2=             0
+az.rgl.ew_timeout_reference=            0
+az.rgl.ew_manual_speed=                 3.87516
+az.rgl.ew_polarity_max=                 0
+az.rgl.ew_polarity_min=                 0
+az.rgl.Magic_ID=                        0xAC3E
+
+
+// all.az.swg
+az.swg.v_max=                           30
+az.swg.a_max=                           10
+az.swg.j_max=                           10
+az.swg.Magic_ID=                        0x4C80
+
+
+// all.az.srgl
+az.srgl.ki=                             1
+az.srgl.kp=                             1
+az.srgl.kd=                             1
+az.srgl.ilim=                           0.1
+az.srgl.Magic_ID=                       0x852F
+
+
+// all.az.vrgl
+az.vrgl.ki=                             1
+az.vrgl.kp=                             1
+az.vrgl.kd=                             1
+az.vrgl.ilim=                           0.1
+az.vrgl.Magic_ID=                       0x852F
+
+
+// all.az.iob
+az.iob.ew_polarity=                     0
+az.iob.ew_timeout=                      0
+az.iob.Magic_ID=                        0x3E0C
+
+
+
+// all.elv
+elv.ix_ref_position=                    0
+elv.safe_position=                      90
+elv.ew_position_start=                  90
+elv.Magic_ID=                           0xABA1
+
+// all.elv.ms
+elv.ms.type=                            1
+elv.ms.type_brake=                      0
+elv.ms.Magic_ID=                        0xA011
+
+
+// all.elv.tune
+elv.tune.params=                        "/tmp/a1_tune.txt"
+elv.tune.Magic_ID=                      0xA011
+
+
+// all.elv.phasing
+elv.phasing.inc_of_k91=                 1500
+elv.phasing.max_retries=                8
+elv.phasing.ref_max_retries=            4
+elv.phasing.Magic_ID=                   0xA011
+
+
+// all.elv.rgl
+elv.rgl.ew_regler_type=                 1
+elv.rgl.ew_scale_encoder=               409600
+elv.rgl.ew_scalev_encoder=              52428.8
+elv.rgl.ew_scalea_encoder=              6710.886
+elv.rgl.ew_scale_motor_position=        1
+elv.rgl.ew_scale_motor_speed=           1
+elv.rgl.ew_sign_axes=                   0
+elv.rgl.ew_position_delta=              0.005
+elv.rgl.ew_speed_delta=                 0.01
+elv.rgl.ew_filter_speed=                0.1
+elv.rgl.ew_position_max=                240
+elv.rgl.ew_position_min=                -60
+elv.rgl.ew_position_guide=              0.00014
+elv.rgl.ew_guide_plus=                  16
+elv.rgl.ew_guide_minus=                 17
+elv.rgl.ew_referenze_mode_lr=           0
+elv.rgl.ew_referenze_mode_enc=          0
+elv.rgl.ew_referenze_position=          -132.16
+elv.rgl.ew_referenze_speed=             0
+elv.rgl.ew_referenze_speed2=            0
+elv.rgl.ew_timeout_reference=           0
+elv.rgl.ew_manual_speed=                3.87516
+elv.rgl.ew_polarity_max=                0
+elv.rgl.ew_polarity_min=                0
+elv.rgl.Magic_ID=                       0xAC3E
+
+
+// all.elv.swg
+elv.swg.v_max=                          30
+elv.swg.a_max=                          10
+elv.swg.j_max=                          10
+elv.swg.Magic_ID=                       0x4C80
+
+
+// all.elv.srgl
+elv.srgl.ki=                            1
+elv.srgl.kp=                            1
+elv.srgl.kd=                            1
+elv.srgl.ilim=                          0.1
+elv.srgl.Magic_ID=                      0x852F
+
+
+// all.elv.vrgl
+elv.vrgl.ki=                            1
+elv.vrgl.kp=                            1
+elv.vrgl.kd=                            1
+elv.vrgl.ilim=                          0.1
+elv.vrgl.Magic_ID=                      0x852F
+
+
+
+// all.dom
+dom.ix_ref_position=                    0
+dom.safe_position=                      0
+dom.ew_position_start=                  0
+dom.Magic_ID=                           0xABA1
+
+// all.dom.ms
+dom.ms.type=                            0
+dom.ms.type_brake=                      0
+dom.ms.Magic_ID=                        0xA011
+
+
+// all.dom.rgl
+dom.rgl.ew_regler_type=                 0
+dom.rgl.ew_scale_encoder=               0
+dom.rgl.ew_scalev_encoder=              0
+dom.rgl.ew_scalea_encoder=              0
+dom.rgl.ew_scale_motor_position=        0
+dom.rgl.ew_scale_motor_speed=           0
+dom.rgl.ew_sign_axes=                   0
+dom.rgl.ew_position_delta=              0
+dom.rgl.ew_speed_delta=                 0
+dom.rgl.ew_filter_speed=                0
+dom.rgl.ew_position_max=                360
+dom.rgl.ew_position_min=                0
+dom.rgl.ew_position_guide=              0.00002777778
+dom.rgl.ew_guide_plus=                  0
+dom.rgl.ew_guide_minus=                 0
+dom.rgl.ew_referenze_mode_lr=           0
+dom.rgl.ew_referenze_mode_enc=          0
+dom.rgl.ew_referenze_position=          0
+dom.rgl.ew_referenze_speed=             0
+dom.rgl.ew_referenze_speed2=            0
+dom.rgl.ew_timeout_reference=           0
+dom.rgl.ew_manual_speed=                0
+dom.rgl.ew_polarity_max=                0
+dom.rgl.ew_polarity_min=                0
+dom.rgl.Magic_ID=                       0xAC3E
+
+
+// all.dom.swg
+dom.swg.v_max=                          5.625271
+dom.swg.a_max=                          0
+dom.swg.j_max=                          0
+dom.swg.Magic_ID=                       0x4C80
+
+
+
+// all.sdom
+sdom.ix_ref_position=                   0
+sdom.safe_position=                     0
+sdom.ew_position_start=                 0
+sdom.Magic_ID=                          0xABA1
+
+// all.sdom.ms
+sdom.ms.type=                           1
+sdom.ms.type_brake=                     0
+sdom.ms.Magic_ID=                       0xA011
+
+
+// all.sdom.rgl
+sdom.rgl.ew_regler_type=                0
+sdom.rgl.ew_scale_encoder=              0
+sdom.rgl.ew_scalev_encoder=             0
+sdom.rgl.ew_scalea_encoder=             0
+sdom.rgl.ew_scale_motor_position=       0
+sdom.rgl.ew_scale_motor_speed=          0
+sdom.rgl.ew_sign_axes=                  0
+sdom.rgl.ew_position_delta=             0
+sdom.rgl.ew_speed_delta=                0
+sdom.rgl.ew_filter_speed=               0
+sdom.rgl.ew_position_max=               1
+sdom.rgl.ew_position_min=               0
+sdom.rgl.ew_position_guide=             0.00002777778
+sdom.rgl.ew_guide_plus=                 0
+sdom.rgl.ew_guide_minus=                0
+sdom.rgl.ew_referenze_mode_lr=          0
+sdom.rgl.ew_referenze_mode_enc=         0
+sdom.rgl.ew_referenze_position=         0
+sdom.rgl.ew_referenze_speed=            0
+sdom.rgl.ew_referenze_speed2=           0
+sdom.rgl.ew_timeout_reference=          0
+sdom.rgl.ew_manual_speed=               0
+sdom.rgl.ew_polarity_max=               0
+sdom.rgl.ew_polarity_min=               0
+sdom.rgl.Magic_ID=                      0xAC3E
+
+
+// all.sdom.swg
+sdom.swg.v_max=                         0.5
+sdom.swg.a_max=                         0
+sdom.swg.j_max=                         0
+sdom.swg.Magic_ID=                      0x4C80
+
+
+
+// all.kdom
+kdom.ix_ref_position=                   -755914244
+kdom.safe_position=                     8.044852e283
+kdom.ew_position_start=                 4.422966e303
+kdom.Magic_ID=                          0x446A
+
+// all.kdom.ms
+kdom.ms.type=                           0
+kdom.ms.type_brake=                     0
+kdom.ms.Magic_ID=                       0x0
+
+
+// all.kdom.rgl
+kdom.rgl.ew_regler_type=                34
+kdom.rgl.ew_scale_encoder=              5.453529e-312
+kdom.rgl.ew_scalev_encoder=             -4.151427e160
+kdom.rgl.ew_scalea_encoder=             7.268095e-313
+kdom.rgl.ew_scale_motor_position=       5.45353e-312
+kdom.rgl.ew_scale_motor_speed=          0.007130608
+kdom.rgl.ew_sign_axes=                  8757
+kdom.rgl.ew_position_delta=             2.121996e-314
+kdom.rgl.ew_speed_delta=                2.722521e-311
+kdom.rgl.ew_filter_speed=               185.07
+kdom.rgl.ew_position_max=               5.583017e-299
+kdom.rgl.ew_position_min=               4.383627e-193
+kdom.rgl.ew_position_guide=             33916.09
+kdom.rgl.ew_guide_plus=                 62
+kdom.rgl.ew_guide_minus=                0
+kdom.rgl.ew_referenze_mode_lr=          231
+kdom.rgl.ew_referenze_mode_enc=         0
+kdom.rgl.ew_referenze_position=         4.383962e-193
+kdom.rgl.ew_referenze_speed=            4.246114e-311
+kdom.rgl.ew_referenze_speed2=           4.383627e-193
+kdom.rgl.ew_timeout_reference=          33918.32
+kdom.rgl.ew_manual_speed=               3.248825e-306
+kdom.rgl.ew_polarity_max=               1
+kdom.rgl.ew_polarity_min=               1
+kdom.rgl.Magic_ID=                      0x0
+
+
+// all.kdom.swg
+kdom.swg.v_max=                         1.989371e-315
+kdom.swg.a_max=                         0
+kdom.swg.j_max=                         0
+kdom.swg.Magic_ID=                      0x0
+
+
+

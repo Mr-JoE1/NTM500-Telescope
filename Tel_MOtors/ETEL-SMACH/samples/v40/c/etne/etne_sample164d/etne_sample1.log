@@ -1,0 +1,20 @@
+﻿Build started 7/8/2022 12:18:19 AM.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample1.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\etne_sample164d\etne_sample1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /D _CRT_SECURE_NO_DEPRECATE /D _DEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo".\etne_sample164d\\" /Fd".\etne_sample164d\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt etne_sample1.c
+         etne_sample1.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:".\etne_sample164d\etne_sample1.exe" /INCREMENTAL /ILK:".\etne_sample164d\etne_sample1.ilk" /NOLOGO dsa40cd.lib etne40cd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:".\etne_sample164d\etne_sample1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\etne_sample164d\etne_sample1.lib" /MACHINE:X64 .\etne_sample164d\etne_sample1.obj
+         etne_sample1.vcxproj -> C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample164d\etne_sample1.exe
+       FinalizeBuildStatus:
+         Deleting file ".\etne_sample164d\etne_sample1.tlog\unsuccessfulbuild".
+         Touching ".\etne_sample164d\etne_sample1.tlog\etne_sample1.lastbuildstate".
+     1>Done Building Project "C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample1.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.78

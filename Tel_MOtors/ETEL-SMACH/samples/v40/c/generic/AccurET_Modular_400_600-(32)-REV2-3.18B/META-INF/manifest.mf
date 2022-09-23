@@ -1,0 +1,10 @@
+Manifest-Version: 2.0
+
+Name: bin/
+Package-Version: "3.18B"
+Generated-By: "ch5072"
+Package-Vendor: "Etel SA"
+Package-Title: "AccurET 400/600 Rev 2"
+Signature: "046b4c0cadbc70ae654977bb046b45736105352b"
+Date: "02-04-2020 10:16:28"
+Product-Number: 32

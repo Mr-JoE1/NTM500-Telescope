@@ -1,0 +1,10 @@
+Manifest-Version: 2.0
+
+Name: bin/
+Package-Version: "3.17A"
+Generated-By: "ch5072"
+Package-Vendor: "Etel SA"
+Package-Title: "AccurET 48 Rev 2"
+Signature: "10b52f6f5ae725e53fa457d4676af4cfc91646f8"
+Date: "06-20-2019 06:58:34"
+Product-Number: 33

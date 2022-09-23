@@ -1,0 +1,24 @@
+﻿Build started 7/7/2022 11:13:50 PM.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample1.vcxproj" on node 2 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file ".\etne_sample132d\etne_sample1.tlog\etne_sample1.lastbuildstate".
+       InitializeBuildStatus:
+         Touching ".\etne_sample132d\etne_sample1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo".\etne_sample132d\\" /Fd".\etne_sample132d\vc143.pdb" /external:W3 /Gd /TC /analyze- /FC /errorReport:prompt etne_sample1.c
+         etne_sample1.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:".\etne_sample132d\etne_sample1.exe" /INCREMENTAL /ILK:".\etne_sample132d\etne_sample1.ilk" /NOLOGO dsa40cd.lib etne40cd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:".\etne_sample132d\etne_sample1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\etne_sample132d\etne_sample1.lib" /MACHINE:X86 .\etne_sample132d\etne_sample1.obj
+     1>LINK : fatal error LNK1104: cannot open file 'dsa40cd.lib'
+     1>Done Building Project "C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample1.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+       "C:\Users\pc\Desktop\ETEL-SMACH\samples\v40\c\etne\etne_sample1.vcxproj" (Rebuild target) (1) ->
+       (Link target) -> 
+         LINK : fatal error LNK1104: cannot open file 'dsa40cd.lib'
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.61
